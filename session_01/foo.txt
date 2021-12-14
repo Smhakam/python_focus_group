@@ -1,0 +1,2 @@
+Hi my name is Sophia. I just created this foo file as an example of touch command and how to use nano
+ 
